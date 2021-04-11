@@ -9,6 +9,8 @@ Our research project aims to find a correlation between a country’s economic d
 
 
 
+## Professor Ellis's Note:
+
 
 This is your group repo for your final project for COGS108.
 
