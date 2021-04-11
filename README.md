@@ -1,3 +1,15 @@
+## Overview
+
+Our research project aims to find a correlation between a country’s economic development and their respective AQI levels. The variables used for this study are the inflation, poverty, unemployment, GDP, and population growth rates of the countries which will be compared against the AQI variable. Through the use of Pearson R tests as well as thorough analysis, our study has shown that there is a slight correlation present between variables. However, the Pearson r test shows that there is no direct correlation. Please note that we have not taken all variables into account. 
+
+
+
+
+
+
+
+
+
 This is your group repo for your final project for COGS108.
 
 This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
