@@ -1,9 +1,16 @@
-## Project Overview
+## Project Overview:
 
-Our research project aims to find a correlation between a country’s economic development and their respective AQI levels. The variables used for this study are the inflation, poverty, unemployment, GDP, and population growth rates of the countries which will be compared against the AQI variable. Through the use of Pearson R tests as well as thorough analysis, our study has shown that there is a slight correlation present between variables. However, the Pearson r test shows that there is no direct correlation. Please note that we have not taken all variables into account. 
+Our research project aims to find a correlation between a country’s economic development and their respective AQI levels. The variables used for this study are the inflation, poverty, unemployment, GDP, and population growth rates of the countries which will be compared against the AQI variable. Through the use of Pearson R tests as well as thorough analysis, our study has shown that there is a slight correlation present between variables. However, the Pearson r test shows that there is no direct correlation. Please note that we have not taken all variables into account. <br>
 
+This project was created as part of COGS108 at UCSD in the Winter 2021 Quarter.
 
+## Project Collaborators:
 
+* Jaslina Kochhar
+* Aakshi Kochhar
+* Pavithra Pandian
+* Nidhi Satyadev
+* Rawan Alkhafaf
 
 
 
